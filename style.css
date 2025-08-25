@@ -153,7 +153,7 @@ body {
 .icons {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 4px;
   position: absolute;
   right: 20px;
   top: 50%;
@@ -236,4 +236,5 @@ body {
     height: 24px;
   }
 }
+
 
